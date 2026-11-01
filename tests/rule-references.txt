@@ -4133,3 +4133,13 @@ https://www.cisco.com/c/en/us/td/docs/ios/12_2sr/12_2sra/feature/guide/srmgtint.
 https://thehackernews.com/2024/03/github-rolls-out-default-secret.html
 https://github.com/xephora/Threat-Remediation-Scripts/tree/main/Threat-Track/CS_INSTALLER
 https://intel.thedfirreport.com/events/view/30032
+https://www.trendmicro.com/en_us/research/25/c/socgholishs-intrusion-techniques-facilitate-distribution-of-rans.html
+https://github.com/okta/workflows-templates/blob/1164f0eb71ce47c9ddc7d850e9ab87b5a2b42333/workflows/suspicious_activity_reported/readme.md
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/s3-proc-sys-kernel
+https://www.nextron-systems.com/2024/03/22/unveiling-kamikakabot-malware-analysis/
+https://unit42.paloaltonetworks.com/microsoft-sharepoint-cve-2025-49704-cve-2025-49706-cve-2025-53770/
+https://blog.appsecco.com/kubernetes-namespace-breakout-using-insecure-host-path-volume-part-1-b382f2a6e216
+https://www.hexacorn.com/blog/2016/03/10/beyond-good-ol-run-key-part-36/
+https://github.com/ossec/ossec-hids/blob/f6502012b7380208db81f82311ad4a1994d39905/etc/rules/syslog_rules.xml
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/Start-Process?view=powershell-5.1&viewFallbackFrom=powershell-7
+https://learn.microsoft.com/de-de/sysinternals/downloads/adexplorer
