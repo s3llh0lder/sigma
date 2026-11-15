@@ -4133,3 +4133,13 @@ https://www.cisco.com/c/en/us/td/docs/ios/12_2sr/12_2sra/feature/guide/srmgtint.
 https://thehackernews.com/2024/03/github-rolls-out-default-secret.html
 https://github.com/xephora/Threat-Remediation-Scripts/tree/main/Threat-Track/CS_INSTALLER
 https://intel.thedfirreport.com/events/view/30032
+https://man7.org/linux/man-pages/man2/mknod.2.html
+https://bazaar.abuse.ch/browse/tag/one/
+https://www.sans.org/blog/protecting-privileged-domain-accounts-lm-hashes-the-good-the-bad-and-the-ugly/
+https://thedfirreport.com/2024/04/01/from-onenote-to-ransomnote-an-ice-cold-intrusion/
+https://www.hexacorn.com/blog/2013/12/08/beyond-good-ol-run-key-part-5/
+https://blog.malwarebytes.com/malwarebytes-news/2021/02/lazyscripter-from-empire-to-double-rat/
+https://lab52.io/blog/snake-keylogger-in-geopolitical-affairs-abuse-of-trusted-java-utilities-in-cybercrime-operations/
+https://github.com/LOLBAS-Project/LOLBAS/blob/2cc01b01132b5c304027a658c698ae09dd6a92bf/yml/OSBinaries/Wbadmin.yml
+https://www.youtube.com/watch?v=52tAmVLg1KM&t=2070s
+https://www.linkedin.com/posts/kevin-beaumont-security_ive-been-assisting-a-few-orgs-hit-with-successful-activity-7268055739116445701-xxjZ/
